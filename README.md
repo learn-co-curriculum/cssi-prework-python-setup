@@ -32,4 +32,8 @@ Then try running `learn` again. If it doesn't work, then run
 
 Then try running `learn` again. This should do the trick. 
 
+---
+If this still doesn't work, try `sudo pip install nose-json`
+
+
 Reach out for support if the tests in your labs still don't run!
